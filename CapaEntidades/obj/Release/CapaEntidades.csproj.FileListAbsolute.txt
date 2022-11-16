@@ -1,0 +1,6 @@
+C:\Back-end\CapaEntidades\bin\Release\CapaEntidades.dll
+C:\Back-end\CapaEntidades\bin\Release\CapaEntidades.pdb
+C:\Back-end\CapaEntidades\obj\Release\CapaEntidades.csprojAssemblyReference.cache
+C:\Back-end\CapaEntidades\obj\Release\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Back-end\CapaEntidades\obj\Release\CapaEntidades.dll
+C:\Back-end\CapaEntidades\obj\Release\CapaEntidades.pdb

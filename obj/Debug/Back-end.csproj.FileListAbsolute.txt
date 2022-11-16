@@ -1,0 +1,2 @@
+I:\Proyectos\AppMóvil\Back-end\obj\Debug\Back-end.csprojAssemblyReference.cache
+I:\Proyectos\AppMóvil\Back-end\obj\Debug\Back-end.csproj.CoreCompileInputs.cache
